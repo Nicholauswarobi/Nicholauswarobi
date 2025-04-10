@@ -6,7 +6,7 @@
 
 ## 🚀 Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,qt,java,django,r,flutter,aws,git,vscode,mysql" width="1000" alt="Languages and Tools">
+  <img src="https://skillicons.dev/icons?i=python,cpp,qt,cmake,django,r,flutter,aws,git,vscode,mysql" width="1000" alt="Languages and Tools">
 </p>
 
 ---
