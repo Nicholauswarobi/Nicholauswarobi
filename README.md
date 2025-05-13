@@ -40,5 +40,5 @@
 <p align="center">
   <a href="https://www.instagram.com/nungu_nw?igsh=ZGUzMzM3NWJiOQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="150"></a>
   <a href="https://github.com/Nicholauswarobi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="150"></a>
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150"></a>
+  <a href="www.linkedin.com/in/nicholaus-nungu-3884b8365"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150"></a>
 </p>
